@@ -33,7 +33,9 @@ for i, number in enumerate(numbers, 1):
     print(f"Number {i} is {number:5}")
 
 
-print(f"1922 Gibson L-5 CES for about $16,035!")
+#1922 Gibson L-5 CES for about $16,035!
+
+print(f"{year} {name} for about ${cost:,.0f}!")
 
 
 for i in range(0,151,50):
