@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b10e681-85e3-4c99-9963-27daba3b7109" name="Changes" comment="second version">
-      <change afterPath="$PROJECT_DIR$/prac_03/randoms.py" afterDir="false" />
+    <list default="true" id="7b10e681-85e3-4c99-9963-27daba3b7109" name="Changes" comment="Attempt">
+      <change afterPath="$PROJECT_DIR$/prac_03/capitalist_conrad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,28 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.randoms">
+  <component name="RunManager" selected="Python.capitalist_conrad">
+    <configuration name="capitalist_conrad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CP1404PRAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_03/capitalist_conrad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="randoms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.capitalist_conrad" />
         <item itemvalue="Python.randoms" />
         <item itemvalue="Python.string_formatting" />
       </list>
@@ -123,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669553974973</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Attempt">
+      <created>1669554890962</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669554890962</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +171,7 @@
     <MESSAGE value="first version no edits" />
     <MESSAGE value="first version" />
     <MESSAGE value="second version" />
-    <option name="LAST_COMMIT_MESSAGE" value="second version" />
+    <MESSAGE value="Attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempt" />
   </component>
 </project>
