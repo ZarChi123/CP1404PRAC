@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b10e681-85e3-4c99-9963-27daba3b7109" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/prac_03/files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_03/numbers.txt" afterDir="false" />
+    <list default="true" id="7b10e681-85e3-4c99-9963-27daba3b7109" name="Changes" comment="fourth block">
+      <change afterPath="$PROJECT_DIR$/prac_03/password_checker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.files">
+  <component name="RunManager" selected="Python.password_checker">
     <configuration name="capitalist_conrad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="randoms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="password_checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_03/randoms.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_03/password_checker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.password_checker" />
         <item itemvalue="Python.files" />
         <item itemvalue="Python.exceptions_to_complete" />
         <item itemvalue="Python.exceptions_demo" />
         <item itemvalue="Python.capitalist_conrad" />
-        <item itemvalue="Python.randoms" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +218,28 @@
       <option name="project" value="LOCAL" />
       <updated>1669560502112</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=".">
+      <created>1669561392400</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669561392400</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fourth block">
+      <created>1669561761594</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669561761594</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fourth block">
+      <created>1669561822112</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669561822112</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +260,7 @@
     <MESSAGE value="Attempt" />
     <MESSAGE value="Attempt 2" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="fourth block" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth block" />
   </component>
 </project>
