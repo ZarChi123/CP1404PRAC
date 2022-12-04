@@ -17,7 +17,9 @@ numbers = [3, 1, 4, 1, 5, 9, 2]
 # print(7 in numbers)
 # print("3" in numbers)
 # print(numbers + [6, 5, 3])
-numbers[0]="ten"
-numbers[-1]=1
-numbers[:2]
-9 in numbers
+
+# numbers[0]="ten"
+# numbers[-1]=1
+# numbers[:2]
+# 9 in numbers
+
