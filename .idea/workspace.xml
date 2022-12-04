@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b10e681-85e3-4c99-9963-27daba3b7109" name="Changes" comment="done" />
+    <list default="true" id="7b10e681-85e3-4c99-9963-27daba3b7109" name="Changes" comment="print report function added">
+      <change beforePath="$PROJECT_DIR$/prac_04/total_income.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_04/total_income.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670151005236</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="print report function added">
+      <created>1670155916317</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670155916317</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,6 +296,7 @@
     <MESSAGE value="." />
     <MESSAGE value="fourth block" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="print report function added" />
+    <option name="LAST_COMMIT_MESSAGE" value="print report function added" />
   </component>
 </project>
