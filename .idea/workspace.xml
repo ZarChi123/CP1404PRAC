@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b10e681-85e3-4c99-9963-27daba3b7109" name="Changes" comment="done" />
+    <list default="true" id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/prac_05/state_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_04/list_exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_04/list_exercises.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.quick_picks">
+  <component name="RunManager" selected="Python.state_names">
     <configuration name="list_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quick_picks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="state_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/quick_picks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_05/state_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.quick_picks" />
+        <item itemvalue="Python.state_names" />
         <item itemvalue="Python.list_exercises" />
         <item itemvalue="Python.subject_reader" />
         <item itemvalue="Python.total_income" />
@@ -153,7 +162,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7b10e681-85e3-4c99-9963-27daba3b7109" name="Changes" comment="" />
+      <changelist id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="done" />
       <created>1669352412564</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -320,77 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670161202262</updated>
     </task>
-    <task id="LOCAL-00024" summary="unedited file">
-      <created>1670163402315</created>
+    <task id="LOCAL-00024" summary="done">
+      <created>1670167180242</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1670163402315</updated>
+      <updated>1670167180242</updated>
     </task>
-    <task id="LOCAL-00025" summary="unedited file">
-      <created>1670163415296</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1670163415296</updated>
-    </task>
-    <task id="LOCAL-00026" summary="done">
-      <created>1670163435246</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1670163435246</updated>
-    </task>
-    <task id="LOCAL-00027" summary="done">
-      <created>1670163443802</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1670163443802</updated>
-    </task>
-    <task id="LOCAL-00028" summary="done">
-      <created>1670163454625</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1670163454625</updated>
-    </task>
-    <task id="LOCAL-00029" summary="done">
-      <created>1670166373571</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1670166373571</updated>
-    </task>
-    <task id="LOCAL-00030" summary="done">
-      <created>1670166516271</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1670166516271</updated>
-    </task>
-    <task id="LOCAL-00031" summary="done">
-      <created>1670166523407</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1670166523407</updated>
-    </task>
-    <task id="LOCAL-00032" summary="done">
-      <created>1670166546344</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1670166546344</updated>
-    </task>
-    <task id="LOCAL-00033" summary="done">
-      <created>1670166557683</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1670166557683</updated>
-    </task>
-    <option name="localTasksCounter" value="34" />
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,9 +360,7 @@
     <MESSAGE value="fourth block" />
     <MESSAGE value="print report function added" />
     <MESSAGE value="edited file, Done" />
-    <MESSAGE value="DONE" />
     <MESSAGE value="unedited file" />
-    <MESSAGE value="Done" />
     <MESSAGE value="done" />
     <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
