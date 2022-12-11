@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/prac_05/state_names.py" afterDir="false" />
+    <list default="true" id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="Complete prac 5 state names exercise">
+      <change afterPath="$PROJECT_DIR$/prac_05/hex_colours.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_04/list_exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_04/list_exercises.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_05/state_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_05/state_names.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670167180242</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Complete prac 5 state names exercise">
+      <created>1670767494170</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670767494170</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,6 +369,7 @@
     <MESSAGE value="edited file, Done" />
     <MESSAGE value="unedited file" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="Complete prac 5 state names exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete prac 5 state names exercise" />
   </component>
 </project>
