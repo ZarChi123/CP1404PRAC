@@ -1,7 +1,7 @@
 """
 Word Occurences
 Estimate: 30 minutes
-Actual:
+Actual:35
 """
 text = input('Text:')
 sorted_words = sorted(text.split(" "))
