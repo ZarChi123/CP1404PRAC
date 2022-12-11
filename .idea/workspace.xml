@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="dont with actual mintues added">
-      <change afterPath="$PROJECT_DIR$/prac_05/emails.py" afterDir="false" />
+    <list default="true" id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="done program">
+      <change afterPath="$PROJECT_DIR$/prac_05/wimbledon.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_05/wimbledon.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/zcrom/CP1404PRAC&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/zcrom/CP1404PRAC",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.emails">
     <configuration name="emails" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
@@ -384,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670773615627</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="done program">
+      <created>1670775136768</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1670775136768</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,6 +427,7 @@
     <MESSAGE value="done" />
     <MESSAGE value="done with actual minutes" />
     <MESSAGE value="dont with actual mintues added" />
-    <option name="LAST_COMMIT_MESSAGE" value="dont with actual mintues added" />
+    <MESSAGE value="done program" />
+    <option name="LAST_COMMIT_MESSAGE" value="done program" />
   </component>
 </project>
