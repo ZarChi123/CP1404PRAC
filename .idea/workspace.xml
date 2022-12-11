@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="done program">
-      <change afterPath="$PROJECT_DIR$/prac_05/wimbledon.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_05/wimbledon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="unfinished version (need lecturer's help)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -397,7 +393,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670775136768</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="unfinished version (need lecturer's help)">
+      <created>1670775911283</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1670775911283</updated>
+    </task>
+    <task id="LOCAL-00034" summary="unfinished version (need lecturer's help)">
+      <created>1670775965081</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1670775965081</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,6 +438,8 @@
     <MESSAGE value="done with actual minutes" />
     <MESSAGE value="dont with actual mintues added" />
     <MESSAGE value="done program" />
-    <option name="LAST_COMMIT_MESSAGE" value="done program" />
+    <MESSAGE value="excel file" />
+    <MESSAGE value="unfinished version (need lecturer's help)" />
+    <option name="LAST_COMMIT_MESSAGE" value="unfinished version (need lecturer's help)" />
   </component>
 </project>
