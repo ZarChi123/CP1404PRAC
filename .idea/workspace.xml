@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="unfinished version (need lecturer's help)">
+    <list default="true" id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="hi">
+      <change afterPath="$PROJECT_DIR$/prac_06/guitar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_06/guitar_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_06/guitars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_06/languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_06/programming_language.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_06/used_cars.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_06/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_06/car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_06/car_simulator.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +24,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="prac_05_feedback" />
+        <entry key="$PROJECT_DIR$" value="prac_06_feedback" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -424,7 +435,35 @@
       <option name="project" value="LOCAL" />
       <updated>1670776586329</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="unfinished version (need lecturer's help)">
+      <created>1670814869700</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1670814869700</updated>
+    </task>
+    <task id="LOCAL-00037" summary="unfinished version (need lecturer's help)">
+      <created>1670815791093</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1670815791093</updated>
+    </task>
+    <task id="LOCAL-00038" summary="hi">
+      <created>1671375262777</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1671375262777</updated>
+    </task>
+    <task id="LOCAL-00039" summary="hi">
+      <created>1671375484423</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1671375484423</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,6 +508,7 @@
     <MESSAGE value="done program" />
     <MESSAGE value="excel file" />
     <MESSAGE value="unfinished version (need lecturer's help)" />
-    <option name="LAST_COMMIT_MESSAGE" value="unfinished version (need lecturer's help)" />
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
   </component>
 </project>
