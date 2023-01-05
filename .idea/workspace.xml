@@ -2,15 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7829351-4efd-4510-8200-3da87edf855b" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/prac_06/guitar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/guitar_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/guitars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/languages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/programming_language.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/used_cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/anchor_layout.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/anchor_layout_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/basic_graphics_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/board_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/box_layout.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/box_layout_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/button_event.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/button_event_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/clock_demo.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/clock_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/clock_demo2.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/clock_demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/convert_m_km_solution.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/convert_m_to_km_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/dynamic_widgets.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/dynamic_widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/falling_drawing.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/falling_drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/float_layout.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/float_layout_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/game_v1.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/game_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/game_v2.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/game_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/grid_layout.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/grid_layout_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/guitar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/guitars.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/guitars_app.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/guitars_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/guitars_console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/hello_kv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/hints_demo.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/hints_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/id_demo.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/id_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/label.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/label_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/mouse_drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/mvc.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/mvc_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/play_game_console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/popup_demo.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/popup_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/quick_sum_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/quick_sum_gui.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/simple_animation_demo.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/simple_animation_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/size_and_position_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/size_position.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/spinner_demo.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/spinner_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/squaring.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/squaring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_08/KivyDemos-master/widget.kv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_06/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_06/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_06/car_simulator.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +80,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="prac_06_feedback" />
+        <entry key="$PROJECT_DIR$" value="90198d00d2bbe17c40b533054ccacde6f158180f" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,21 +102,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/zcrom/CP1404PRAC&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/zcrom/CP1404PRAC/prac_08",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;PLAIN_TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Python.emails">
-    <configuration name="emails" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zcrom\CP1404PRAC\prac_08" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zcrom\CP1404PRAC" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.box_layout_demo">
+    <configuration name="box_layout_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_08/KivyDemos-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_05/emails.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_08/KivyDemos-master/box_layout_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hex_colours" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="kivy_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_05/hex_colours.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/test/kivy_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/list_exercises.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/test/person.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="state_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_05/state_names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/test/student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word_occurences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="student_simulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404PRAC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_05/word_occurences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/test/student_simulator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.emails" />
-        <item itemvalue="Python.word_occurences" />
-        <item itemvalue="Python.hex_colours" />
-        <item itemvalue="Python.state_names" />
-        <item itemvalue="Python.list_exercises" />
+        <item itemvalue="Python.box_layout_demo" />
+        <item itemvalue="Python.student_simulator" />
+        <item itemvalue="Python.student" />
+        <item itemvalue="Python.person" />
+        <item itemvalue="Python.kivy_test" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671375484423</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="hi">
+      <created>1672117130864</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1672117130864</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
